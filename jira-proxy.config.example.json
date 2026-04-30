@@ -1,0 +1,4 @@
+{
+  "jiraBaseUrl": "https://jira.wsgc.com",
+  "port": 8765
+}
